@@ -38,11 +38,11 @@ I'm a front-end heavy full-stack developer with a passion for crafting intuitive
 
 ## 📊 GitHub Stats
 
-![Piyush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Piyush's GitHub Stats](https://github-readme-stats.vercel.app/api?piyusss11&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?piyusss11&theme=radical)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?piyusss11&layout=compact&theme=radical)
 
 ## 📫 Let's Connect!
 Feel free to reach out if you want to collaborate or just say hi:
