@@ -45,6 +45,6 @@ I'm a front-end heavy full-stack developer with a passion for crafting intuitive
 ## 📫 Let's Connect!
 Feel free to reach out if you want to collaborate or just say hi:
 - LinkedIn: (https://www.linkedin.com/in/piyusss11/)
-- Email: piyush11@gmail.com
+- Email: piyusss11@gmail.com
 
 Thanks for visiting my profile! 😄
