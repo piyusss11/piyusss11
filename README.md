@@ -35,6 +35,9 @@ I'm a front-end heavy full-stack developer with a passion for crafting intuitive
 <a href="https://bard.google.com/"><img src="https://img.shields.io/badge/Bard-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Bard" height="40"></a>
 
 
+# My Graphy
+[![Piyush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=piyusss11&theme=chartreuse-dark)](https://github.com/piyusss11/github-readme-activity-graph)
+
 ## 📊 GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=piyusss11&theme=radical)](https://git.io/streak-stats)
