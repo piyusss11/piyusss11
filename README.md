@@ -52,7 +52,9 @@ Feel free to reach out if you want to collaborate or just say hi:
 
 <a href="https://www.linkedin.com/in/piyusss11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 <a href="https://x.com/piyusss11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
+<a href="https://www.behance.net/https://www.behance.net/piyusss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/piyusss" height="30" width="40" /></a>
 
-- Email: piyusss11@gmail.com
-
+<a href="mailto:piyusss11@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail">
+</a>
 Thanks for visiting my profile! 😄
