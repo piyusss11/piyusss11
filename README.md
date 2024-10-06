@@ -35,6 +35,7 @@ I'm a front-end heavy full-stack developer with a passion for crafting intuitive
 <a href="https://bard.google.com/"><img src="https://img.shields.io/badge/Bard-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Bard" height="40"></a>
 
 
+
 # My Graphy
 [![Piyush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=piyusss11&theme=chartreuse-dark)](https://github.com/piyusss11/github-readme-activity-graph)
 
@@ -42,12 +43,16 @@ I'm a front-end heavy full-stack developer with a passion for crafting intuitive
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=piyusss11&theme=radical)](https://git.io/streak-stats)
 
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piyusss11&layout=compact&theme=radical)
 
 
 ## 📫 Let's Connect!
 Feel free to reach out if you want to collaborate or just say hi:
-- LinkedIn: (https://www.linkedin.com/in/piyusss11/)
+
+<a href="https://www.linkedin.com/in/piyusss11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://x.com/piyusss11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
+
 - Email: piyusss11@gmail.com
 
 Thanks for visiting my profile! 😄
