@@ -41,10 +41,7 @@ I'm a front-end heavy full-stack developer with a passion for crafting intuitive
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=piyusss11&theme=radical)](https://git.io/streak-stats)
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piyusss11&layout=compact&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=piyusss11&theme=radical)](https://git.io/streak-stats)   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piyusss11&layout=compact&theme=radical)
 
 
 ## 📫 Let's Connect!
