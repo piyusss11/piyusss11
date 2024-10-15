@@ -55,4 +55,3 @@ Feel free to reach out if you want to collaborate or just say hi:
 </a>
 
 
-Thanks for visiting my profile! 😄
