@@ -3,11 +3,6 @@
 ## 👨‍💻 About Me
 I'm a front-end heavy full-stack developer with a passion for crafting intuitive, visually engaging, and user-centric web applications. I thrive in environments where I can seamlessly merge design with functionality, collaborating with teams to transform creative ideas into well-structured, efficient code. My focus on the front-end allows me to ensure exceptional user experiences, while my full-stack expertise enables me to bring cohesive solutions from concept to deployment.
 
-- 🌱 Currently working in **Backend development**
-- 💼 Previously interned at **Open Labs** and worked as a Web Developer at **Open Sense Labs, Delhi**
-- 🏆 6 months of internship experience with significant real-world projects
-- 🎨 Proficient in design tools like **Figma**
-- 🔍 Always eager to learn new technologies and improve my skills
 
 ## 💻 My Tech Stack
 
