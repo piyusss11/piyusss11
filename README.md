@@ -31,12 +31,10 @@ I'm a front-end heavy full-stack developer with a passion for crafting intuitive
 
 
 
-# My Graphy
-[![Piyush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=piyusss11&theme=chartreuse-dark)](https://github.com/piyusss11/github-readme-activity-graph)
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=piyusss11&theme=radical)](https://git.io/streak-stats)   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piyusss11&layout=compact&theme=radical)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piyusss11&layout=compact&theme=radical)
 
 
 ## 📫 Let's Connect!
